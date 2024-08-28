@@ -1,4 +1,4 @@
 github flow test
-- dev1
-- dev2
+- feat1
+- feat2
 - dev3
